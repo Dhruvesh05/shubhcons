@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Block internal Next.js paths
+Disallow: /_next/
+Disallow: /api/
+
+Sitemap: https://shubh-construction.onrender.com/sitemap.xml
